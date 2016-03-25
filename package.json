@@ -1,0 +1,12 @@
+{
+  "name": "hashcache",
+  "version": "0.0.1",
+  "description": "A lightweight, secure way to cache commonly-used files on the web.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "make hashcache"
+  },
+  "author": "Arlo Miles",
+  "license": "GPL-3.0",
+  "repository": "arlomiles/hashcache"
+}
